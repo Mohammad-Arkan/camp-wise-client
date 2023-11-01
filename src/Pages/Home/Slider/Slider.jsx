@@ -10,7 +10,7 @@ import { Autoplay, Pagination, Navigation } from "swiper";
 const Slider = () => {
     return (
         <Swiper
-            spaceBetween={30}
+            spaceBetween={0}
             centeredSlides={true}
             autoplay={{
                 delay: 2500,
@@ -25,7 +25,7 @@ const Slider = () => {
         >
             <SwiperSlide>
             <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://1.bp.blogspot.com/-bGq4sBrCzmA/YMsNGuw_MyI/AAAAAAACbd0/_VEs6S1LGbE7ZJAoFrQjb93FdmlYBvEngCLcBGAsYHQ/s16000/bug%2Bobservation%2Bbox.jpg'} className="w-full object-cover" />
+                    <img src={'https://demo.bosathemes.com/html/educator/assets/img/educator-img12.jpg'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
                             <h2 className='text-5xl text-white font-bold'>Bug Observation Box</h2>
@@ -39,7 +39,7 @@ const Slider = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://1.bp.blogspot.com/-pRn7cRi0Skk/YMsJEAswWFI/AAAAAAACbbk/hPV5dYoCK6YOHs-o8jAFmHvwnHvMoJsJQCLcBGAsYHQ/s16000/nature%2Bsuncatcher.jpg'} className="w-full object-cover" />
+                    <img src={'https://ingridkuhn.com/themes/alphabet-bs5.3/img/slide4.jpg'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
                             <h2 className='text-5xl text-white font-bold'>Nature Suncatcher Craft</h2>
@@ -53,7 +53,7 @@ const Slider = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://1.bp.blogspot.com/-DF56tqqmS6I/YMsK7OGCryI/AAAAAAACbcc/ynoTxq2rva4awH-N0YPffpkpAPMrKKwwQCLcBGAsYHQ/s16000/clay%2Bleaf%2Bbowl.jpg'} className="w-full object-cover" />
+                    <img src={'https://html.merku.love/shelly/assets/img/img4.jpg'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
                             <h2 className='text-5xl text-white font-bold'>Clay Leaf Bowl</h2>
@@ -67,7 +67,7 @@ const Slider = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://1.bp.blogspot.com/-oBWJEeF-AGc/YMsLw8ZOTrI/AAAAAAACbc8/ifka4ncofoEjdy4JmWCyZ0zN5-XBTT0-wCLcBGAsYHQ/s16000/watermelon%2Bcard%2Bcraft.jpg'} className="w-full object-cover" />
+                    <img src={'https://media.istockphoto.com/id/1218718894/photo/happy-kids-jumping-and-playing-in-city-street.jpg?s=612x612&w=0&k=20&c=G0_J6yO0OoUk7n4rmawwulTe8lm4-HXpx7qhQNTrWG8='} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
                             <h2 className='text-5xl text-white font-bold'>Watermelon Card</h2>
@@ -82,13 +82,13 @@ const Slider = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://1.bp.blogspot.com/-Jeb-v5rspRo/YMsMk0q5yOI/AAAAAAACbdc/wS3kqNHIM2EXUxZG9mTsyGcZPuJsiSCyACLcBGAsYHQ/s16000/ice%2Bcream%2Bpainted%2Brocks.jpg'} className="w-full object-cover" />
+                    <img src={'https://media.istockphoto.com/id/1193612058/photo/group-of-elementary-age-students-going-to-class.jpg?s=612x612&w=0&k=20&c=5TMUh0DBjjB6FyT6EsCKO38EiVW8S0Qtsjjzm0LgwYQ='} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
                             <h2 className='text-5xl text-white font-bold'>Ice Cream Painted Rocks</h2>
 
 
-                            <p className="text-white">Don't you love all the fun ways you can paint rocks to make something cool? These ice cream painted rocks from Projects with Kids are perfect for summer. Provide some flat rocks, paint, and paint pens, and get to work making silly little ice creams with faces. Their watermelon painted rocks are super cute, too!
+                            <p className="text-white">Don&apos;t you love all the fun ways you can paint rocks to make something cool? These ice cream painted rocks from Projects with Kids are perfect for summer. Provide some flat rocks, paint, and paint pens, and get to work making silly little ice creams with faces. Their watermelon painted rocks are super cute, too!
 
 </p>
 
