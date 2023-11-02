@@ -33,14 +33,14 @@ const Event = () => {
     return (
         <div className="grid md:grid-cols-2 mb-40">
             
-            <div className="hero h-[70vh]" style={{backgroundImage: "url(https://plus.unsplash.com/premium_photo-1681843246988-5be25c946e34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)"}}>
+            <div className="hero h-[70vh]" style={{backgroundImage: "url(https://media.istockphoto.com/id/1253507992/photo/elementary-school-classroom-enthusiastic-teacher-holding-tablet-computer-explains-to-a.jpg?s=1024x1024&w=is&k=20&c=NZ_xV92NvL_VBs9DgC1s9G5Vg4oXnR69JrIyZn0fNuA=)"}}>
                 <div className="hero-overlay bg-opacity-40"></div>
                 <div className="hero-content text-center text-neutral-content">
                     
                 </div>
             </div>
 
-            <div className="hero h-[70vh]" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1426604966848-d7adac402bff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)" }}>
+            <div className="hero h-[70vh]" style={{ backgroundImage: "url(https://cdn.pixabay.com/photo/2023/10/28/16/27/mountains-8347890_1280.jpg)" }}>
                 <div className="hero-overlay bg-opacity-20"></div>
 
 

@@ -25,73 +25,55 @@ const Slider = () => {
         >
             <SwiperSlide>
             <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://demo.bosathemes.com/html/educator/assets/img/educator-img12.jpg'} className="w-full object-cover" />
+                    <img src={'https://img.freepik.com/free-photo/happy-kids-playing-city-s-street-sunny-summer-s-day-front-modern-building-group-happy-childrens-teenagers-having-fun-together-concept-friendship-childhood-summer-holidays_155003-25104.jpg?w=740&t=st=1698908391~exp=1698908991~hmac=a3439a26f53b5c957f56e8577f3424249d9b489ee7abb5584a63892da356b71b'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
-                            <h2 className='text-5xl text-white font-bold'>Bug Observation Box</h2>
-
-                            
-                            <p className="text-white">This bug observation box by Barley and Birch is easy and educational. Find out what types of bugs live nearby by catching them and observing them for a little while. The mesh side provides lots of air for the bugs, so you don&apos;t need to worry about hurting them. Just catch, observe, and release! Decorate your box with crafty flowers and leaves. Don&apos;t forget to put some real ones inside for the bugs to munch on while they&apos;re there.</p>
-
+                            <h2 className='text-5xl text-white font-bold'>Unleash Summer Adventure</h2>
+                            <p className="text-white">Get ready for an unforgettable summer adventure filled with fun and learning. Our summer school vacation learning program offers a wide range of engaging courses and activities to keep students excited about education during the break. With expert instructors and a curriculum designed to spark curiosity, your child will explore new subjects and build skills. </p>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://ingridkuhn.com/themes/alphabet-bs5.3/img/slide4.jpg'} className="w-full object-cover" />
+                    <img src={'https://img.freepik.com/free-photo/students-reading-book-together_1098-1148.jpg?w=740&t=st=1698908718~exp=1698909318~hmac=1761193efb0802a16bc5294e5db4824df0619b148a1848f76b76180d6f885806'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
-                            <h2 className='text-5xl text-white font-bold'>Nature Suncatcher Craft</h2>
-
-
-                            <p className="text-white">There are many variations of passages of  available, but the majority have suffered alteration in some form</p>
-
+                            <h2 className='text-5xl text-white font-bold'>Ignite the Joy of Learning</h2>
+                            <p className="text-white">At our summer school vacation learning program, we believe in igniting the joy of learning. We offer diverse courses that empower students to embrace education as an adventure. Our experienced educators are not just teachers; they are mentors, encouraging critical thinking and problem-solving.</p>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://html.merku.love/shelly/assets/img/img4.jpg'} className="w-full object-cover" />
+                    <img src={'https://lmstheme.wpenginepowered.com/wp-content/uploads/2014/08/course14.jpg'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
-                            <h2 className='text-5xl text-white font-bold'>Clay Leaf Bowl</h2>
-
-
-                            <p className="text-white">Our clay leaf bowl would make an excellent summer camp craft for kids. With some air-dry clay, leaves, and a bit of paint, you can make and decorate your own bowl to your liking. Use it at home to hold change, keys, jewelry, or give it to someone as a gift.</p>
-
+                            <h2 className='text-5xl text-white font-bold'>Explore, Create, Innovate</h2>
+                            <p className="text-white">This summer, unleash your child&apos;s creativity and innovation with our vacation learning program. We offer a wide array of courses, from STEM subjects to the arts, designed to stimulate young minds and nurture the next generation of innovators. Your child will engage in hands-on experiments, projects, and artistic expression under the guidance of skilled instructors. </p>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://media.istockphoto.com/id/1218718894/photo/happy-kids-jumping-and-playing-in-city-street.jpg?s=612x612&w=0&k=20&c=G0_J6yO0OoUk7n4rmawwulTe8lm4-HXpx7qhQNTrWG8='} className="w-full object-cover" />
+                    <img src={'https://wpocean.com/html/tf/eduko/assets/images/popular/img-6.jpg'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
-                            <h2 className='text-5xl text-white font-bold'>Watermelon Card</h2>
-
-
-                            <p className="text-white">Tell someone they&apos;re one in a melon with this totally adorable watermelon card from The Best Ideas for Kids. What a fun project for kids who&apos;ve gone away to summer camp who are perhaps missing their family or friends. Of course, you can make it for your own backyard summer camp, too.
-</p>
-
+                            <h2 className='text-5xl text-white font-bold'>Safety and Well-Being Assured</h2>
+                            <p className="text-white">We prioritize the safety and well-being of your child above all else. Our summer school vacation learning program is committed to providing a secure and nurturing environment. Our staff is highly trained to ensure a safe experience for all students. We maintain rigorous health and safety protocols and offer modern facilities that support physical and emotional well-being.</p>
                         </div>
                     </div>
                 </div>
             </SwiperSlide>
             <SwiperSlide>
                 <div className="carousel-item relative w-full h-[70vh]">
-                    <img src={'https://media.istockphoto.com/id/1193612058/photo/group-of-elementary-age-students-going-to-class.jpg?s=612x612&w=0&k=20&c=5TMUh0DBjjB6FyT6EsCKO38EiVW8S0Qtsjjzm0LgwYQ='} className="w-full object-cover" />
+                    <img src={'https://www.samanthasbell.com/wp-content/uploads/2015/06/ART-CLASS.jpg'} className="w-full object-cover" />
                     <div className="absolute flex items-center top-0 bottom-0 gap-5 bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0)]">
                         <div className='text-white space-y-7 w-3/5 ml-12'>
-                            <h2 className='text-5xl text-white font-bold'>Ice Cream Painted Rocks</h2>
-
-
-                            <p className="text-white">Don&apos;t you love all the fun ways you can paint rocks to make something cool? These ice cream painted rocks from Projects with Kids are perfect for summer. Provide some flat rocks, paint, and paint pens, and get to work making silly little ice creams with faces. Their watermelon painted rocks are super cute, too!
-
-</p>
-
+                            <h2 className='text-5xl text-white font-bold'>Create Lifelong Memories</h2>
+                            <p className="text-white">We prioritize the safety and well-being of your child above all else. Our summer school vacation learning program is committed to providing a secure and nurturing environment. Our staff is highly trained to ensure a safe experience for all students. We maintain rigorous health and safety protocols and offer modern facilities that support physical and emotional well-being.</p>
                         </div>
                     </div>
                 </div>
